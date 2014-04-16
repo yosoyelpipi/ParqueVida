@@ -9,7 +9,7 @@
 <description>
 Parque Vida - Buenos Aires - Argentina - Línea de mensajes: 49121059 - Tel.: 49128432 (VIDA) - Copyright 2001-2014
 </description>
-<preference name="phonegap-version" value="3.1.0" />
+<preference name="phonegap-version" value="3.3.0" />
 <preference name="orientation" value="portrait" />
 <preference name="fullscreen" value="true" />
 <icon src="img/icon_grande.png" />
